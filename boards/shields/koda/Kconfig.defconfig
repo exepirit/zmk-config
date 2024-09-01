@@ -1,0 +1,6 @@
+if SHIELD_KODA
+
+config ZMK_KODA
+    default "Koda"
+
+endif
