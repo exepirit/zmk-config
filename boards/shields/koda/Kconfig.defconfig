@@ -1,6 +1,6 @@
 if SHIELD_KODA
 
-config ZMK_KODA
+config ZMK_KEYBOARD_NAME
     default "Koda"
 
 endif
