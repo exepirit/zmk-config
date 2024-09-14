@@ -3,4 +3,6 @@ if SHIELD_KODA
 config ZMK_KEYBOARD_NAME
     default "Koda"
 
+CONFIG_BT_GATT_ENFORCE_SUBSCRIPTION=n
+
 endif
