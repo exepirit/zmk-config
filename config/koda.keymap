@@ -14,7 +14,7 @@
 
         layer_1 {
             bindings = <
-&kp GRAVE  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp BSLH  &kp LS(GRAVE)  &kp APOS  &kp LS(SQT)  &kp LBKT  &kp RBKT  &trans  &trans  &kp LS(LEFT_BRACKET)  &kp LS(RIGHT_BRACKET)  &trans  &trans  &trans  &trans  &trans  &trans  &kp LS(N9)  &kp LS(N0)  &trans  &trans  &trans  &trans  &trans  &kp PAGE_UP  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp HOME  &kp PAGE_DOWN  &kp END
+&kp GRAVE  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp BSLH  &kp LS(GRAVE)  &kp APOS  &kp LS(SQT)  &kp LBKT  &kp RBKT  &trans  &trans  &kp LS(LEFT_BRACKET)  &kp LS(RIGHT_BRACKET)  &trans  &trans  &trans  &trans  &trans  &trans  &kp LS(N9)  &kp LS(N0)  &trans  &trans  &trans  &trans  &trans  &kp PAGE_UP  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp KP_EQUAL  &kp HOME  &kp PAGE_DOWN  &kp END
             >;
         };
 
